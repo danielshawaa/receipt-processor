@@ -132,12 +132,6 @@ Data is stored in DynamoDB
 
 ## Demo Video
 
-Here is a short demo showing how the project works.
-
-(Add your video here)
-
-Example:
-
 [Watch the demo]((https://youtu.be/u3c5CKqw0wo?feature=shared))
 
 ---
