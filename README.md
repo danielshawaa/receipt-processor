@@ -132,8 +132,8 @@ Data is stored in DynamoDB
 
 ## Demo Video
 
-[Watch the demo]((https://youtu.be/u3c5CKqw0wo?feature=shared))
-
+[Watch the demo]
+https://youtu.be/u3c5CKqw0wo?feature=shared
 ---
 
 
